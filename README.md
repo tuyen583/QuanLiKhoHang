@@ -1,5 +1,5 @@
 <!-- author: hgbaodev -->
-# Đồ án môn Phân tích thiết kế hệ thống thông tin
+
  Đề tài: Quản lý kho hàng điện thoại thông minh theo mã imei
  ### 
  File báo cáo vào slide PowerPoint nằm trong thư mục BaoCaoPTTKHTTT
