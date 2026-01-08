@@ -2,7 +2,6 @@
 
  Đề tài: Quản lý kho hàng điện thoại thông minh theo mã imei
  ### 
- File báo cáo vào slide PowerPoint nằm trong thư mục BaoCaoPTTKHTTT
 
 ## Getting Started
 
